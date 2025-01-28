@@ -9,7 +9,7 @@ import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 export function Footer() {
     return(
      
-    <footer className=" lg:bg-transparent text-black lg:mt-[150px] lg:bg-[#F6F3FF]">
+    <footer className=" lg:bg-transparent text-black lg:mt-[150px] lg:bg-[#F6F3FF] lg:container lg:mx-auto">
       <div className="container mx-auto px-4 lg:ml-[500px]">
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-6 text-center lg:text-left relative">
           {/* Discover Section */}
