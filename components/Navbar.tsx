@@ -25,7 +25,7 @@ export function Navbar() {
     return(
         <nav className="flex w-full items-center justify-between px-[20px] py-[25px] lg:container lg:mx-auto lg:px-[50.44] lg:py-[20] shadow-md lg:h-[114.21px] lg:top-[-18.1px]  ">
             <div className="flex items-center">
-                <Image src={logo} alt="logo" className="lg:w-[195.1] lg:h-[36.17] lg:top-[56.15] lg:left-[50.44] w-[122] h-[22.61] top-[25] left-[20] "/>
+                <Image src={logo} alt="logo" className="lg:w-[200.1] lg:h-[36.17] lg:top-[56.15] lg:left-[50.44] w-[122] h-[22.61] top-[25] left-[20] "/>
 
             
             
